@@ -1,4 +1,5 @@
 # Data-Visualization-Challenge
+
 # Background
 You've just joined Pymaceuticals, Inc., a new pharmaceutical company that specializes in anti-cancer medications. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 
@@ -19,9 +20,9 @@ Create a DataFrame of summary statistics. Remember, there is more than one metho
 
 Your summary statistics should include:
 
-A row for each drug regimen. These regimen names should be contained in the index column.
+    A row for each drug regimen. These regimen names should be contained in the index column.
 
-A column for each of the following statistics: mean, median, variance, standard deviation, and SEM of the tumor volume.
+    A column for each of the following statistics: mean, median, variance, standard deviation, and SEM of the tumor volume.
 
 # Create Bar Charts and Pie Charts
 Generate two bar charts. Both charts should be identical and show the total total number of rows (Mouse ID/Timepoints) for each drug regimen throughout the study.
@@ -56,11 +57,12 @@ Select a single mouse that was treated with Capomulin, and generate a line plot 
 
 Generate a scatter plot of mouse weight versus average observed tumor volume for the entire Capomulin treatment regimen.
 
-#Calculate Correlation and Regression
+# Calculate Correlation and Regression
 Calculate the correlation coefficient and linear regression model between mouse weight and average observed tumor volume for the entire Capomulin treatment regimen.
 
 Plot the linear regression model on top of the previous scatter plot.
 
 # References
-Referenced Happy Donut for trouble shooting errors
-Referenced Phython and Pandas website for error trouble shooting
+Referenced Happy Donut for trouble shooting errors.
+
+Referenced Phython and Pandas website for Jupyter Notbook version error trouble shooting.
